@@ -19,7 +19,8 @@
         "socket.io-client": "1.3.x",
         "brace": "../brace/",
         "marked" : "0.3.x",
-        "jquery-qrcode": "git://github.com/lrsjng/jquery-qrcode.git#master"
+        "jquery-qrcode": "git://github.com/lrsjng/jquery-qrcode.git#master",
+        "ipfs-api": "git://github.com/ipfs/js-ipfs-api.git#master"
     },
     "devDependencies": {
         "browserify": "6.2.x",
